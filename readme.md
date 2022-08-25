@@ -12,3 +12,5 @@
 vsem privet!
 
 kak dela?
+
+так себе
