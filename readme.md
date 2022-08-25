@@ -13,7 +13,5 @@ vsem privet!
 
 kak dela?
 
-<<<<<<< HEAD
-
 __очень хорошо__
 
